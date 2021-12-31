@@ -1,6 +1,6 @@
 
 # Evaluate New Article With NLP: A WebPack Project
-Would You Rather web app for a web game is created Using Redux to manage the application state as a part of the [FWD-Advanced Track-Udacity's React Nanodegree program](https://egfwd.com/).
+Evaluate New Article With NLP created Using WebPack to manage the application as a part of the [FWD-Advanced Track-Udacity's React Nanodegree program](https://egfwd.com/).
 
 ## About
 It aims to build a web tool that allows users to run Natural Language Processing (NLP) on articles or blogs found on other websites. When a user submits a URL of an article, the web page then dispalys sentiment analysis returned from [meaningcloud API](https://www.meaningcloud.com/products/sentiment-analysis), based on the contents of the article.
