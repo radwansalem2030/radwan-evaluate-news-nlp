@@ -1,4 +1,3 @@
-
 # Evaluate New Article With NLP: A WebPack Project
 Evaluate New Article With NLP created Using WebPack to manage the application as a part of the [FWD-Advanced Track-Udacity's React Nanodegree program](https://egfwd.com/).
 
