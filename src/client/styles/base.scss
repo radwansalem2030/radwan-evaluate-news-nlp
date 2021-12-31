@@ -6,9 +6,15 @@ body {
 
 main {
     flex: 2;
+    flex: 2;
+    justify-content: center;
+    text-align: center;
+    margin: 2rem;
+    font: 300 1rem "Roboto", sans-serif;
 }
 
 section {
     max-width: 800px;
-    margin: 50px auto;
+    margin: 1rem auto;
 }
+

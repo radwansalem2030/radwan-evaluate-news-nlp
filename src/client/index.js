@@ -2,7 +2,6 @@ import { checkUrl } from './js/urlChecker'
 import { handleSubmit } from './js/formHandler'
 
 console.log(checkUrl);
-
 // alert("I EXIST")
 // console.log("CHANGE!!");
 
