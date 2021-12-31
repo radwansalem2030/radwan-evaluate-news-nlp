@@ -39,4 +39,4 @@ Web page dispalys sentiment analysis returned from [meaningcloud API](https://ww
 	-[https://www.youtube.com/watch?v=xPuBEwwL-lA]
 
 ## Screenshots
-![screenshot1](images/home.png)
+![screenshot1](images/home.PNG)
