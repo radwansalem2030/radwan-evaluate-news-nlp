@@ -25,12 +25,11 @@ Web page dispalys sentiment analysis returned from [meaningcloud API](https://ww
 
 ## To Start Project(installation)
 1. Install npm
-```
 2. Start the project
 `npm run build-prod` 
 `npm start`
 
-8. Open browser at http://localhost:8081/
+3. Open browser at http://localhost:8081/
 
 ## References:
 - Mainly All Lessons from ClassRoom
